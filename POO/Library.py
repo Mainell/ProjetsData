@@ -101,6 +101,7 @@ le membre {member.nom} sont les suivants :")
         return
 
 
+# Création des membres de la Bibliothèque
 feli = Membre(1, "Felicity")
 nouchka = Membre(2, "Nouchka")
 aka = Membre(3, "O'Aka")
@@ -108,6 +109,7 @@ lovely = Membre(4, "Lovely One")
 
 print(lovely)
 
+# Création de livres pour la Bibliothèque
 HP1 = Livre(1, "Harry Potter à l'Ecole des Sorciers", "J K Rowling", 1997)
 HP2 = Livre(2, "Harry Potter et la Chambre des secrets", "J K Rowling", 1998)
 HP3 = Livre(3, "Harry Potter et le Prisonnier d'Azkaban", "J K Rowling", 1999)
@@ -118,7 +120,10 @@ Tao = Livre(7, "The Tao of Equus", "Linda Kohanov", 2001)
 
 print(HP1)
 
+# Création de la Bibliothèque
 BNF = Bibliotheque()
+
+# Ajout/Retrait de livres dans la Bibliothèque
 BNF.add_book(HP1)
 BNF.add_book(HP2)
 BNF.add_book(HP3)
@@ -133,6 +138,7 @@ BNF.remove_book(LOTR2)
 
 BNF.print_available()
 
+# Ajout/Retrait de membres dans la Bibliothèque
 BNF.add_member(feli)
 BNF.add_member(nouchka)
 BNF.add_member(aka)
@@ -144,12 +150,14 @@ BNF.remove_member(feli)
 
 BNF.print_members()
 
+# Recherche sur les livres
 BNF.find_by_author("JRR Tolkien")
 
 BNF.find_by_title("The Tao of Equus")
 
 BNF.print_available()
 
+# Emprunt/Retour de livres
 BNF.emprunter(lovely, Tao)
 BNF.emprunter(lovely, LOTR1)
 
