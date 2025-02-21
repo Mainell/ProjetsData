@@ -11,3 +11,9 @@
 This is part of a "mini project" organized by Wild Code School :
 
 ![Capture d'écran du PowerBI](images/horses.png)
+
+![Capture d'écran du PowerBI](images/carte.png)
+
+![Capture d'écran du PowerBI](images/jo.png)
+
+![Capture d'écran du PowerBI](images/fr.png)
