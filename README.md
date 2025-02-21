@@ -8,11 +8,6 @@
 - 🐺 How to pronouns my first name ? menɘl
 - 🎓 Fun fact: I was a teacher for 8 years ! My best memory ? A trip in Copenhague with 30 students.
 
-This is part of a "mini project" organized by Wild Code School to learn how to use DBT.
-All the files labeled "1.2 ETL/ELT - DBT" are specifically created for this purpose.
+This is part of a "mini project" organized by Wild Code School :
 
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+![Capture d'écran du PowerBI](images/horses.png)
