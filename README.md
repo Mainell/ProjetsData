@@ -18,6 +18,8 @@ This is part of a "mini project" done while I was studying at the Wild Code Scho
 
 ![Capture d'écran du PowerBI](images/fr.png)
 
-If you want to see other projects :
+- 🎀 Hey ! Wanna see more ?
 
 https://github.com/Mainell/ProjetCollectifOilrush
+
+https://github.com/Mainell/ProjetCollectifCinema
