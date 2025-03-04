@@ -8,7 +8,7 @@
 - 🐺 How to pronouns my first name ? menɘl
 - 🎓 Fun fact: I was a teacher for 8 years ! My best memory ? A trip in Copenhagen with 30 pupils.
 
-This is part of a "mini project" organized while I was studying at the Wild Code School :
+This is part of a "mini project" done while I was studying at the Wild Code School :
 
 ![Capture d'écran du PowerBI](images/horses.png)
 
@@ -17,3 +17,7 @@ This is part of a "mini project" organized while I was studying at the Wild Code
 ![Capture d'écran du PowerBI](images/jo.png)
 
 ![Capture d'écran du PowerBI](images/fr.png)
+
+If you want to see other projects :
+
+https://github.com/Mainell/ProjetCollectifOilrush
