@@ -2,7 +2,7 @@
 
 - 💝 I’m interested in data analysis and life with horses.
 - ✨ I’m currently learning data sciences and natural horsemanship.
-- 🪴 I’m looking to collaborate on environmental or cheerful projects, particulary those involving horses !
+- 🪴 I’m looking to collaborate on science projects, particulary those involving horses !
 
 - 📫 How to reach me ? https://www.linkedin.com/in/mainell-wuillermin/
 - 🐺 How to pronouns my first name ? menɘl
