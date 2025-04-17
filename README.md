@@ -1,7 +1,7 @@
 - 🎀 Hi, I’m @Mainell !
 
 - 💝 I’m interested in data analysis and life with horses.
-- ✨ I’m currently learning data sciences and natural horsemanship.
+- ✨ I’m currently learning data sciences.
 - 🪴 I’m looking to collaborate on science projects, particulary those involving horses !
 
 - 📫 How to reach me ? https://www.linkedin.com/in/mainell-wuillermin/
